@@ -7,3 +7,5 @@ Dunbar-Janson-values.py provides three blended peicewise distributions calculate
 Fuzzy-Dunbar-Janson.py is supposed to fit a continuous skewed version (not peicewise), but may need debugging.
 
 Both scripts need review and clarification of assumption premises.
+
+Also review more recent research: https://www.google.com/search?q=janson+critic+number+verses+dunbar+number
